@@ -1,6 +1,9 @@
 seed (3.8.1-2blankon1) tambora; urgency=medium
 
   * Upstream release:
+  * debian/patches :
+    - 99_configure_ac_blankon.patch
+  * debian/control:
     - debian/control libwebkit2gtk-4.0-dev
 
  -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 08 Apr 2015 14:31:21 +0700
