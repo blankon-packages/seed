@@ -1,5 +1,5 @@
-fix_format.patch
-link_gmodule.patch
-fix_autogen_and_configure.patch
-typedef_int_Function_readline.patch
+#fix_format.patch
+#link_gmodule.patch
+#fix_autogen_and_configure.patch
+#typedef_int_Function_readline.patch
 99_configure_ac_blankon.patch
